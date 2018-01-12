@@ -1,3 +1,6 @@
+/* 
+sass --watch style.scss:style.css
+*/
 body {
   font-size: 15px; }
 
