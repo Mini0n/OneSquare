@@ -2,7 +2,9 @@
 sass --watch style.scss:style.css
 */
 .input-group {
-  padding: 10px;
-  padding-bottom: 20px; }
+  padding: 10px; }
+
+.git-group {
+  padding: 10px; }
 
 /*# sourceMappingURL=style.css.map */
