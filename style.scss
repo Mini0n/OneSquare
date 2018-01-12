@@ -2,8 +2,7 @@
 sass --watch style.scss:style.css
 */
 
-body {
-
-  font-size: 10px + 5px;
-
+.input-group {
+  padding: 10px;
+  padding-bottom: 20px;
 }

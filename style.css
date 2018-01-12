@@ -1,7 +1,8 @@
 /* 
 sass --watch style.scss:style.css
 */
-body {
-  font-size: 15px; }
+.input-group {
+  padding: 10px;
+  padding-bottom: 20px; }
 
 /*# sourceMappingURL=style.css.map */
